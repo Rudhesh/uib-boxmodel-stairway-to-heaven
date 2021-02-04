@@ -1,0 +1,123 @@
+
+.container {
+    width: 1035px;
+    height: 1035px;
+    border: 15px solid rgb(255, 34, 218);
+    margin: 20px;
+    box-sizing: border-box;
+  }
+
+  span {
+    display: none;
+  }
+
+  .container1 {
+    width: 250px;
+    height: 250px;
+    
+    background: rgb(0, 255, 0);
+    margin: 0px 753px;
+    box-sizing: border-box;
+  }
+
+  .container2 {
+    width: 250px;
+    height: 250px;
+    background: rgb(0, 255, 0);
+    border: 15px solid rgb(124, 124, 124);
+    margin: 3px 503px;
+    box-sizing: border-box;
+  }
+   
+  .container3 {
+    width: 250px;
+    height: 250px;
+    background: rgb(0, 255, 0);
+    margin: 3px 254px;
+    box-sizing: border-box;
+  }
+   
+  .container4 {
+    width: 250px;
+    height: 250px;
+    border: 15px solid rgb(124, 124, 124);
+    background: rgb(0, 255, 0);
+    margin:0px 0px;
+    box-sizing: border-box;
+  }
+   
+
+
+   .containernext {
+    /* width: 1035px;
+    height: 1035px; */
+    /* border: 15px solid rgb(255, 34, 218); */
+    
+    margin: 683px 0px;
+    box-sizing: border-box;
+  } 
+
+  span {
+    display: none;
+  }
+
+  .container8 {
+    width: 250px;
+    height: 250px;
+    background: rgb(255, 208, 0);
+    border: 10px solid rgb(184, 50, 50);
+    margin: 0px 753px;
+    box-sizing: border-box;
+  }
+
+  .container7 {
+    width: 250px;
+    height: 250px;
+    background: rgb(255, 208, 0);
+    border: 10px solid rgb(184, 50, 50);
+    margin: 3px 503px;
+    box-sizing: border-box;
+  }
+   
+  .container6 {
+    width: 250px;
+    height: 250px;
+    background: rgb(255, 208, 0);
+    border: 10px solid rgb(184, 50, 50);
+    margin: 3px 254px;
+    box-sizing: border-box;
+  }
+   
+  .container5 {
+    width: 250px;
+    height: 250px;
+    border: 10px solid rgb(184, 50, 50);
+    background: rgb(255, 208, 0);
+    margin:0px 0px;
+    box-sizing: border-box;
+  }
+   
+  .container9 {
+    width: 498px;
+    height: 260px;
+    background: rgb(255, 0, 0);
+  }
+
+  .container10 {
+    width: 747px;
+    height: 260px;
+    background: rgb(255, 0, 0);
+  }
+
+  .container11 {
+    width: 978px;
+    height: 260px;
+    background: rgb(255, 0, 0);
+    /* box-sizing: border-box; */
+  }
+
+  .container-red {
+
+    margin:0px;
+    padding: 40px 50px;
+  }
